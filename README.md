@@ -15,6 +15,7 @@
 
 - ⚡ Fun fact **I'm one of those good people**
 
+- 🔎 Visit my portfolio **https://portfoliojcc.herokuapp.com/**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
