@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Juan</h1>
-<h3 align="center">A Junior Backend Developer from Paraguay</h3>
+<h3 align="center">A Software Developer from Paraguay</h3>
 
 - 🔭 I’m currently working on **django projects**
 
