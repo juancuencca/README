@@ -3,17 +3,11 @@
 
 - 🔭 I’m currently working on **Fullstack projects**
 
-- 🌱 I’m currently learning **React, Angular, SQL, JavaEE, Apache Server.**
+- 🌱 I’m currently learning **Rust, PyTorch**
 
-- 👯 I’m looking to collaborate on **Fullstack projects**
-
-- 👨‍💻 All of my projects are available at [https://github.com/jncuenca](https://github.com/jncuenca)
-
-- 💬 Ask me about **Backend stuff**
+- 👨‍💻 All of my projects are available at [https://github.com/juancuencca](https://github.com/juancuencca)
 
 - 📫 How to reach me **juan99.cuenca@gmail.com**
-
-- ⚡ Fun fact **I'm one of those good people**
 
 - 🔎 Visit my portfolio **https://portfoliojcc.herokuapp.com/**
 <h3 align="left">Connect with me:</h3>
