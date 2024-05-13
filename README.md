@@ -8,9 +8,7 @@
 - 👨‍💻 All of my projects are available at [https://github.com/juancuencca](https://github.com/juancuencca)
 
 - 📫 How to reach me **juan99.cuenca@gmail.com**
-
-- 🔎 Visit my portfolio **https://portfoliojcc.herokuapp.com/**
-<h3 align="left">Connect with me:</h3>
+  
 <p align="left">
 </p>
 
